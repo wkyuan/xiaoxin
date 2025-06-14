@@ -1,0 +1,9 @@
+{
+    "target": "esp32s3",
+    "builds": [
+        {
+            "name": "xiaoxin-esp32s3-028",
+            "sdkconfig_append": []
+        }
+    ]
+}
